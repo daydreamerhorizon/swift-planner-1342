@@ -1,0 +1,3 @@
+# swift-planner-1342 notes
+
+接口随时可能变，别依赖它。
